@@ -5,7 +5,7 @@
 
 # Compilation units
 ###################
-src/monad.ml
+src/monad.ml4
 src/monadPluginModule.ml
 src/monadPlugin.mllib
 Monad.v

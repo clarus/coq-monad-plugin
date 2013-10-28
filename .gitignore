@@ -12,4 +12,5 @@
 *.d
 *.glob
 *.bak
+*.native
 Makefile
