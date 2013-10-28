@@ -1,0 +1,11 @@
+# Includes
+##########
+-I src
+-R . Monad
+
+# Compilation units
+###################
+src/monad.ml
+src/monadPluginModule.ml
+src/monadPlugin.mllib
+Monad.v
